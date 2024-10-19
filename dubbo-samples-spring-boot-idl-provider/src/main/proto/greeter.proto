@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+
+package org.apache.dubbo.springboot.demo.idl;
+
+message GreeterRequest {
+  string name = 1;
+}
+
+message GreeterReply {
+  string message = 1;
+}
+
+message CategoryRequest {
+    string name = 1;
+}
+
+message CategoryResponse {
+    string name = 1;
+    string type = 2;
+}
+
+service Greeter{
+
+  rpc greet(GreeterRequest) returns (GreeterReply);
+
+  rpc getCategory(CategoryRequest) returns (CategoryResponse);
+}

@@ -1,0 +1,14 @@
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/src/main/java/org/apache/dubbo/springboot/demo/consumer/ConsumerApplication.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/Greeter.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/CategoryRequestOrBuilder.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/GreeterReplyOrBuilder.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/CategoryResponseOrBuilder.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/CategoryRequest.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/DubboGreeterTriple.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/GreeterOuterClass.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/src/main/java/org/apache/dubbo/springboot/demo/consumer/Task.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/GreeterRequestOrBuilder.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/src/main/java/org/apache/dubbo/springboot/demo/consumer/TestController.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/GreeterRequest.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/CategoryResponse.java
+/home/thuong/dubbo/dubbo-samples/1-basic/dubbo-samples-spring-boot-idl/dubbo-samples-spring-boot-idl-consumer/build/generated/source/proto/main/java/org/apache/dubbo/springboot/demo/idl/GreeterReply.java
